@@ -1,1 +1,1 @@
-pbu
+pbumongo>=1.0.0

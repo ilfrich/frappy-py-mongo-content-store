@@ -1,4 +1,4 @@
-from pbu import AbstractMongoStore, AbstractMongoDocument
+from pbumongo import AbstractMongoStore, AbstractMongoDocument
 
 
 class Content(AbstractMongoDocument):
